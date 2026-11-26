@@ -2,7 +2,7 @@
 
 This package contains the original Siri 0.5.6 desktop interface with a taller Settings card for all five AI model rows. The model service and its Python runtime are included.
 
-## Install on another PC
+## Install PC (Run Locally without API Key)
 
 1. Use a 64-bit Windows 10 or 11 PC. If you received a ZIP, extract the entire ZIP first.
 2. Keep the `Siri` folder beside `Install-Siri.cmd`. Double-click `Install-Siri.cmd`.
