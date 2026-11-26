@@ -1,0 +1,9 @@
+﻿# Compiled Windows runtime, binaries, and AI models are distributed via GitHub Releases
+Siri/*
+!Siri/BUILD-METADATA.json
+!Siri/Start-Siri.cmd
+!Siri/THIRD-PARTY-NOTICES.md
+!Siri/siri_model_proxy.py
+!Siri/docs/
+!Siri/licenses/
+*.zip
